@@ -1,16 +1,21 @@
-## Hi there 👋
+# Redbull
 
-<!--
-**Tanushtyagi/Tanushtyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Team 1
+   * Redbull
+-Team 2
+    * Everyother
+| Teams | My Ranking| Actual Ranking |
+|       |
+|       |
+|       | 
+|
 
-Here are some ideas to get you started:
+[Redbull](https://www.redbullshop.com/en-int/?srsltid=AfmBOoq-LpcTnFSDk2P7KNbpF4dujNSHzV0Dg46UBMPo_SGsJf5BwSfm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+(Max verstappen)[
+
+
+- [x] Best driver
+- [ ] Every came last
+- [x] The G.O.A.T
