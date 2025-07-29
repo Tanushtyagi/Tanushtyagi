@@ -3,10 +3,10 @@
 -Team 1
    * Redbull
 -Team 2
-    * Everyother
+  * Everyother
 
 | Teams | My Ranking | Actual Ranking |
-|:-----------|:------------:|------------:|
+|:-----------:|:------------:|:------------:|
 | Redbull      | 1       | 2         |
 | Mc laren     | 2       | 1         |
 
