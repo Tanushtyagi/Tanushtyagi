@@ -2,6 +2,7 @@
 
 -Team 1
    * Redbull
+
 -Team 2
   * Everyother
 
