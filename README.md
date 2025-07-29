@@ -4,11 +4,11 @@
    * Redbull
 -Team 2
     * Everyother
-| Teams | My Ranking| Actual Ranking |
-|       |
-|       |
-|       | 
-|
+
+| Teams | My Ranking | Actual Ranking |
+|:-----------|:------------:|------------:|
+| Redbull      | 1       | 2         |
+| Mc laren     | 2       | 1         |
 
 [Redbull](https://www.redbullshop.com/en-int/?srsltid=AfmBOoq-LpcTnFSDk2P7KNbpF4dujNSHzV0Dg46UBMPo_SGsJf5BwSfm)
 
