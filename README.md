@@ -14,7 +14,7 @@
 [Redbull](https://www.redbullshop.com/en-int/?srsltid=AfmBOoq-LpcTnFSDk2P7KNbpF4dujNSHzV0Dg46UBMPo_SGsJf5BwSfm)
 
 
-(Max verstappen)[IMG_0789.jpeg]
+(Max verstappen)[https://raw.githubusercontent.com/Tanushtyagi/Tanushtyagi/refs/heads/main/IMG_0789.jpeg]
 
 
 - [x] Best driver
